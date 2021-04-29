@@ -2,12 +2,20 @@
 
 
 | Stagger | [4 Row](#4) | [3 Row](#3) | [5 Row](#5) |  
-| Non-Split | [Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#3nc) | [Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#4nc) | [Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc) |  
-|Unibody Split|[Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#4nc)|[Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#3nc)|[Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc)|
-|Split|[Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#4nc)|[Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#3nc)|[Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc)|
-[Chorded](#chord)
-[Needs Categorization](#needs)
+
 |:---:|:---:|:---:|:---:|  
+
+| Non-Split | [Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#3nc) | [Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#4nc) | [Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc) |  
+
+|Unibody Split|[Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#4nc)|[Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#3nc)|[Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc)|  
+
+|Split|[Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#4nc)|[Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#3nc)|[Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc)|  
+
+[Chorded](#chord)  
+
+[Needs Categorization](#needs)  
+
+
 
 # Keyboard List
 ## 4 Rows <a name="4"></a>
