@@ -24,7 +24,7 @@ QAZ
 
 <img src="https://assets.bigcartel.com/product_images/274959977/3643FD82-2F16-463A-860C-C0CCD8B24AFA.jpeg" alt="QAZ" width="300"/>  
 
-Image Credit: Coffee Break Keyboards  
+Image Credit: TJ Campie  
 
 [Info](https://www.cbkbd.com/product/qaz-keyboard-kit)  
 
