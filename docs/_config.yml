@@ -1,0 +1,14 @@
+theme: jekyll-theme-minimal
+  
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - index.md
+
+
+title: "10u Keyboards"
+description: "A list of keyboards that are wide enough."
+logo: logo.png
