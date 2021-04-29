@@ -1,234 +1,102 @@
 # 10 Keys Wide
-
 ## 4 Rows
-
 ### Unibody Non-Split
-
 #### Row Stagger
-
 - QAZ 
 - Omega4 
 - Treadstone32
 - Pain27
 - M0ii0
 - Mobile34
-
-### Ortholinear
-
+#### Ortholinear
 - _33
-
 - Dubba
-
 - Yasui
-
 - Reviung33 
-
-### Unibody Split
-
 #### Column Stagger
-
-- Ahokore 
-
-- Kawa 
-
-- Eek 
-
-- Le Chiffre 
-
-### Split 
-
-#### Row Stagger
-
-Nothing Lives Here
-
-#### Ortholinear
-
-- Reviung34 
-
-#### Column Staggered 
-
-## 3 Rows
-
-### Unibody Non-Split
-
-#### Row Stagger
-
-### Ortholinear
-
+- Tsubute
 ### Unibody Split
-
-#### Column Stagger 
-
-### Split 
-
 #### Row Stagger
-
-#### Ortholinear
-
-#### Column Staggered 
-
-## 5 Rows
-
-### Unibody Non-Split
-
-#### Row Stagger
-
-### Ortholinear
-
-### Unibody Split
-
-#### Column Stagger 
-
-### Split 
-
-#### Row Stagger
-
-#### Ortholinear
-
-#### Column Staggered 
-
-# 11 Keys Wide
-
-## 4 Rows
-
-### Unibody Non-Split
-
-#### Row Stagger
-
-- QAZ 
-
-- Omega4 
-
-- Treadstone32
-
-- Pain27
-
-- M0ii0
-
-- Mobile34
-
-### Ortholinear
-
-- _33
-
-- Dubba
-
-- Yasui
-
-- Reviung33 
-
-### Unibody Split
-
+- sekiei38
+#### Otholiner
+- Rainkeeb
 #### Column Stagger
-
 - Ahokore 
-
 - Kawa 
-
 - Eek 
-
 - Le Chiffre 
-
+- Absolem 
+- jklp 
+- Zaphod
+- Euclid36
 ### Split 
-
 #### Row Stagger
-
-Nothing Lives Here
-
 #### Ortholinear
-
 - Reviung34 
-
 #### Column Staggered 
-
 ## 3 Rows
-
 ### Unibody Non-Split
-
 #### Row Stagger
-
-### Ortholinear
-
-### Unibody Split
-
-#### Column Stagger 
-
-### Split 
-
-#### Row Stagger
-
+- alpha
+- Omega
+- Gooby
+- Stonehenge30 
 #### Ortholinear
-
-#### Column Staggered 
-
-## 5 Rows
-
-### Unibody Non-Split
-
-#### Row Stagger
-
-### Ortholinear
-
+- Gherkin
+- The30
+#### Column Stagger
 ### Unibody Split
-
-#### Column Stagger 
-
-### Split 
-
 #### Row Stagger
-
+#### Ortholiner
+#### Column Stagger 
+- Manta 
+- Reviung30 
+### Split 
+#### Row Stagger
 #### Ortholinear
-
-#### Column Staggered 
-
-# To Be Categorized
-- Reviung34 Split 
-- Levinson 
 - Foobar 
 - Trail Mix 
 - MiniAxe 
 - Rhymestone 
+#### Column Staggered 
 - Ferris 
 - Microdox 
-- Corne (5col) 
+- Corne (5col Version) 
 - 5plit 
 - Minidox 
-- Kyria (5 col)  
+- Kyria (5 col Version)  
 - Draculad 
-- Ergoslab 
+- Centromere Mini 
 - Gergoplex 
-- Ginny 
-- Mitosis 
+- Skeletyl 
+- Arch36 
+## 5 Rows
+### Unibody Non-Split
+#### Row Stagger
+### Ortholinear
+- Littlefoot
+### Unibody Split
+#### Column Stagger 
+### Split 
+#### Row Stagger
+#### Ortholinear
+#### Column Staggered 
 - Squiggle 
-- Akimbo 
+- Chimera Ergo Mini 
+# Chorded/Combo Keybords
+- Ginny 
+- Akimbo
+- Butterstick
+# Need Categorization
 - Cradio F 
 - YA36 
 - Fifi 
-- Chimera Ergo Mini 
-- Centromere Mini 
-- Skeletyl 
-- alpha 
-- Stonehenge30 
-- Zaphod 
-- Tsubute
-- Absolem 
-- Arch36 
-- Atreus 
-- Manta 
-- Balbuzard 
-- jklp 
 - Noip 
-- Euclid36
-- Eggman 
-- Reviung30 
-- IsoQaz
-- Karina
-- Gherkin 
-- Packrat 
-- Gooby 
-- The30 
-- Butterstick
-- Rainkeeb
 - Space Space
-- sekiei38
 - Eleven 
+- Ergoslab 
+- Atreus 
+- Balbuzard 
+- Eggman 
+- Karina
+- Packrat 
