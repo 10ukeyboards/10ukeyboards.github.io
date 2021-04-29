@@ -13,8 +13,14 @@
 ## 4 Rows <a name="4"></a>
 ### Unibody Non-Split <a name="4n"></a>
 #### Row Stagger <a name="4nr"></a>
-- QAZ 
-- Omega4 
+##### QAZ 
+<img src="https://assets.bigcartel.com/product_images/274959977/3643FD82-2F16-463A-860C-C0CCD8B24AFA.jpeg" alt="QAZ" width="200"/>
+Image Credit: Coffee Break Keyboards
+Info: https://www.cbkbd.com/product/qaz-keyboard-kit
+##### Omega4 
+<img src="https://assets.bigcartel.com/product_images/285901140/73F5B4FC-E7AB-4149-B9B1-CDD700709BB1.jpeg" alt="QAZ" width="200"/>
+Image Credit: Coffee Break Keyboards
+Info: https://www.cbkbd.com/product/omega4-keyboard-kit
 - Treadstone32
 - Pain27
 - M0ii0
