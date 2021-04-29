@@ -12,3 +12,5 @@ include:
 title: "10u Keyboards"
 description: "A list of keyboards that are wide enough."
 logo: logo.png
+
+markdown: kramdown
