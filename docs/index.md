@@ -20,14 +20,14 @@
 
 Image Credit: Coffee Break Keyboards  
 
-Info: https://www.cbkbd.com/product/qaz-keyboard-kit  
+[Info](https://www.cbkbd.com/product/qaz-keyboard-kit)  
 
 ##### Omega4 
 <img src="https://assets.bigcartel.com/product_images/285901140/73F5B4FC-E7AB-4149-B9B1-CDD700709BB1.jpeg" alt="QAZ" width="300"/>  
 
 Image Credit: Coffee Break Keyboards  
 
-Info: https://www.cbkbd.com/product/omega4-keyboard-kit  
+[Info](https://www.cbkbd.com/product/omega4-keyboard-kit)  
 
 ##### Treadstone32  
 
