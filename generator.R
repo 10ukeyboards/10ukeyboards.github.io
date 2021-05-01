@@ -1,8 +1,17 @@
+
+library(gsheet)
+
+
 ## If using most R clients this will set the WD
-setwd(getSrcDirectory()[1])
+#setwd(getSrcDirectory()[1])
 ## If using RStudio this will set the proper WD
-setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
-boards <- read.csv("list//boards.csv")
+#setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+
+
+
+
+boards <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1yjBroqWsdkn6UIRHMhAu7uRpc40q9PTtaTIKJLjE-6g/edit?usp=sharing")
+boards <- boards[,-1]
 fileConn <- file("docs//index.md")
 
 
@@ -20,7 +29,7 @@ title: 10u Keyboards
 | Unibody Split | [Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#4nc) | [Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#3nc) | [Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc) |  
 | Split | [Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#4nc) | [Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#3nc) | [Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc) |  
 [Chorded](#chord)  
-[Needs Categorization](#needs)  
+
 
 
 # Keyboard List
