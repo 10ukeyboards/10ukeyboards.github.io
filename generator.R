@@ -31,7 +31,7 @@ title: 10u Keyboards
 for(rows in c(3,4,5)){
   for(style in c("Nonsplit","Unibody Split","Split")){
     for(stagger in c("Row Stagger","Ortholinear","Column Stagger")){
-      str = paste(str,"## ",rows," Rows, ",style," ",stagger," <a name=\"",rows,tolower(unlist(strsplit(style,""))[1]),tolower(unlist(strsplit(stagger,""))[1]),"\"></a>  \n",sep="")
+      str = paste(str,"## ",rows," Rows, ",style,", ",stagger," <a name=\"",rows,tolower(unlist(strsplit(style,""))[1]),tolower(unlist(strsplit(stagger,""))[1]),"\"></a>  \n",sep="")
       str = paste(str,"| |  \n","| :---: |  \n",sep="")  
       numberBoards <- length((boards[,1]))
       for(i in 1:numberBoards){
