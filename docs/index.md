@@ -18,140 +18,140 @@ title: 10u Keyboards
 # Keyboard List
 
 
-## 3 Rows, Nonsplit <a name="3nr"></a>  
+## 3 Rows, Nonsplit Row Stagger <a name="3nr"></a>  
 | |  
 | :---: |  
 
 
-## 3 Rows, Nonsplit <a name="3no"></a>  
+## 3 Rows, Nonsplit Ortholinear <a name="3no"></a>  
 | |  
 | :---: |  
 
 
-## 3 Rows, Nonsplit <a name="3nc"></a>  
+## 3 Rows, Nonsplit Column Stagger <a name="3nc"></a>  
 | |  
 | :---: |  
 
 
-## 3 Rows, Unibody Split <a name="3ur"></a>  
+## 3 Rows, Unibody Split Row Stagger <a name="3ur"></a>  
 | |  
 | :---: |  
 
 
-## 3 Rows, Unibody Split <a name="3uo"></a>  
+## 3 Rows, Unibody Split Ortholinear <a name="3uo"></a>  
 | |  
 | :---: |  
 
 
-## 3 Rows, Unibody Split <a name="3uc"></a>  
+## 3 Rows, Unibody Split Column Stagger <a name="3uc"></a>  
 | |  
 | :---: |  
 
 
-## 3 Rows, Split <a name="3sr"></a>  
+## 3 Rows, Split Row Stagger <a name="3sr"></a>  
 | |  
 | :---: |  
 
 
-## 3 Rows, Split <a name="3so"></a>  
+## 3 Rows, Split Ortholinear <a name="3so"></a>  
 | |  
 | :---: |  
 
 
-## 3 Rows, Split <a name="3sc"></a>  
+## 3 Rows, Split Column Stagger <a name="3sc"></a>  
 | |  
 | :---: |  
 
 
-## 4 Rows, Nonsplit <a name="4nr"></a>  
+## 4 Rows, Nonsplit Row Stagger <a name="4nr"></a>  
 | |  
 | :---: |  
 | **QAZ** <br> [Info](https://www.cbkbd.com/product/qaz-keyboard-kit) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.bigcartel.com%2Fproduct_images%2F274670099%2F2E129729-F539-4DE2-BA12-11686A638810.jpeg%3Fauto%3Dformat%26fit%3Dmax%26w%3D1120&f=1&nofb=1" alt="QAZ" width="300"/> <br> Image Credit: TJ Campie |  
 | **Omega4** <br> [Info](https://www.cbkbd.com/product/omega4-keyboard-kit) <br> <img src="https://assets.bigcartel.com/product_images/290706156/C5C90514-A803-4423-852D-80A918330170.jpeg" alt="Omega4" width="300"/> <br> Image Credit: Coffee Break Keyboards |  
 
 
-## 4 Rows, Nonsplit <a name="4no"></a>  
+## 4 Rows, Nonsplit Ortholinear <a name="4no"></a>  
 | |  
 | :---: |  
 | **Yasui** <br> [Info](https://www.rainkeebs.mx/product/yasui-keyboard-kit) <br> <img src="https://assets.bigcartel.com/product_images/301231563/DSC_0419.JPG" alt="Yasui" width="300"/> <br> Image Credit: Rainkeebs |  
 
 
-## 4 Rows, Nonsplit <a name="4nc"></a>  
+## 4 Rows, Nonsplit Column Stagger <a name="4nc"></a>  
 | |  
 | :---: |  
 
 
-## 4 Rows, Unibody Split <a name="4ur"></a>  
+## 4 Rows, Unibody Split Row Stagger <a name="4ur"></a>  
 | |  
 | :---: |  
 
 
-## 4 Rows, Unibody Split <a name="4uo"></a>  
+## 4 Rows, Unibody Split Ortholinear <a name="4uo"></a>  
 | |  
 | :---: |  
 
 
-## 4 Rows, Unibody Split <a name="4uc"></a>  
+## 4 Rows, Unibody Split Column Stagger <a name="4uc"></a>  
 | |  
 | :---: |  
 
 
-## 4 Rows, Split <a name="4sr"></a>  
+## 4 Rows, Split Row Stagger <a name="4sr"></a>  
 | |  
 | :---: |  
 
 
-## 4 Rows, Split <a name="4so"></a>  
+## 4 Rows, Split Ortholinear <a name="4so"></a>  
 | |  
 | :---: |  
 
 
-## 4 Rows, Split <a name="4sc"></a>  
+## 4 Rows, Split Column Stagger <a name="4sc"></a>  
 | |  
 | :---: |  
 
 
-## 5 Rows, Nonsplit <a name="5nr"></a>  
+## 5 Rows, Nonsplit Row Stagger <a name="5nr"></a>  
 | |  
 | :---: |  
 
 
-## 5 Rows, Nonsplit <a name="5no"></a>  
+## 5 Rows, Nonsplit Ortholinear <a name="5no"></a>  
 | |  
 | :---: |  
 
 
-## 5 Rows, Nonsplit <a name="5nc"></a>  
+## 5 Rows, Nonsplit Column Stagger <a name="5nc"></a>  
 | |  
 | :---: |  
 
 
-## 5 Rows, Unibody Split <a name="5ur"></a>  
+## 5 Rows, Unibody Split Row Stagger <a name="5ur"></a>  
 | |  
 | :---: |  
 
 
-## 5 Rows, Unibody Split <a name="5uo"></a>  
+## 5 Rows, Unibody Split Ortholinear <a name="5uo"></a>  
 | |  
 | :---: |  
 
 
-## 5 Rows, Unibody Split <a name="5uc"></a>  
+## 5 Rows, Unibody Split Column Stagger <a name="5uc"></a>  
 | |  
 | :---: |  
 
 
-## 5 Rows, Split <a name="5sr"></a>  
+## 5 Rows, Split Row Stagger <a name="5sr"></a>  
 | |  
 | :---: |  
 
 
-## 5 Rows, Split <a name="5so"></a>  
+## 5 Rows, Split Ortholinear <a name="5so"></a>  
 | |  
 | :---: |  
 
 
-## 5 Rows, Split <a name="5sc"></a>  
+## 5 Rows, Split Column Stagger <a name="5sc"></a>  
 | |  
 | :---: |  
 
