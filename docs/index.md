@@ -66,8 +66,6 @@ title: 10u Keyboards
 ## 4 Rows, Nonsplit, Row Stagger <a name="4nr"></a>  
 | |  
 | :---: |  
-| **QAZ** <br> [Info](https://www.cbkbd.com/product/qaz-keyboard-kit) <br> <img src="https://assets.bigcartel.com/product_images/274959977/3643FD82-2F16-463A-860C-C0CCD8B24AFA.jpeg" alt="QAZ" width="300"/> <br> Image Credit: TJ Campie |  
-| **Omega4** <br> [Info](https://www.cbkbd.com/product/omega4-keyboard-kit) <br> <img src="https://assets.bigcartel.com/product_images/290706156/C5C90514-A803-4423-852D-80A918330170.jpeg" alt="Omega4" width="300"/> <br> Image Credit: Coffee Break Keyboards |  
 
 
 ## 4 Rows, Nonsplit, Ortholinear <a name="4no"></a>  
