@@ -5,7 +5,7 @@ library(gsheet)
 ## If using most R clients this will set the WD
 #setwd(getSrcDirectory()[1])
 ## If using RStudio this will set the proper WD
-#setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
+setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 
 
@@ -42,9 +42,10 @@ for(rows in c(3,4,5)){
     for(stagger in c("Row Stagger","Ortholinear","Column Stagger")){
       str = paste(str,"## ",rows," Rows, ",style,", ",stagger," <a name=\"",rows,tolower(unlist(strsplit(style,""))[1]),tolower(unlist(strsplit(stagger,""))[1]),"\"></a>  \n",sep="")
       str = paste(str,"| |  \n","| :---: |  \n",sep="")  
-      numberBoards <- length((boards[,1]))
+      numberBoards <- dim(boards[,1])[1]
       for(i in 1:numberBoards){
         if(boards[i,2]==rows && boards[i,3]==style && boards[i,4]==stagger){
+          print(boards[i,1])
           str = paste(str,"| **",boards[i,1],"** <br> [Info](",boards[i,5],") <br> <img src=\"",boards[i,6],"\" alt=\"",boards[i,1],"\" width=\"300\"/> <br> Image Credit: ",boards[i,7]," |  \n",sep="")
         }
       }#End Cycle the Boards
