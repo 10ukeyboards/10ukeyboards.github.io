@@ -88,7 +88,7 @@ title: 10u Keyboards
 ## 4 Rows, Unibody Split, Row Stagger <a name="4ur"></a>  
 | |  
 | :---: |  
-| **Sekiei38** <br> [Info](https://2-4kbd.booth.pm/items/1479069) <br> <img src="https://s2.booth.pm/e43b143a-fdf6-4b53-9f87-472f3ff6bb86/i/1479069/4cd81797-420e-4a29-8581-f31dfcdbedee_base_resized.jpg" alt="Sekiei38" width="300"/> <br> Image Credit: <U+68A8><U+91CE><U+8FB2><U+5712> |  
+| **Sekiei38** <br> [Info](https://2-4kbd.booth.pm/items/1479069) <br> <img src="https://s2.booth.pm/e43b143a-fdf6-4b53-9f87-472f3ff6bb86/i/1479069/4cd81797-420e-4a29-8581-f31dfcdbedee_base_resized.jpg" alt="Sekiei38" width="300"/> <br> Image Credit: 2_4kbd |  
 
 
 ## 4 Rows, Unibody Split, Ortholinear <a name="4uo"></a>  
