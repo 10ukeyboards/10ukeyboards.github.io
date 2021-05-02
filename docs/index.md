@@ -12,7 +12,7 @@ title: 10u Keyboards
 | Unibody Split | [Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#4nc) | [Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#3nc) | [Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc) |  
 | Split | [Row Stagger](#4nr), [Ortholinear](#4no), [Column Stagger](#4nc) | [Row Stagger](#3nr), [Ortholinear](#3no), [Column Stagger](#3nc) | [Row Stagger](#5nr), [Ortholinear](#5no), [Column Stagger](#5nc) |  
 [Chorded](#chord)  
-[Needs Categorization](#needs)  
+
 
 
 # Keyboard List
