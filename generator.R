@@ -38,19 +38,25 @@ title: 10u Keyboards
 
 "
 
-for(rows in c(3,4,5)){
+for(rows in c(3,4,5,2)){
   for(style in c("Nonsplit","Unibody Split","Split")){
     for(stagger in c("Row Stagger","Ortholinear","Column Stagger")){
-      str = paste(str,"## ",rows," Rows, ",style,", ",stagger," <a name=\"",rows,tolower(unlist(strsplit(style,""))[1]),tolower(unlist(strsplit(stagger,""))[1]),"\"></a>  \n",sep="")
-      str = paste(str,"| |  \n","| :---: |  \n",sep="")  
-      numberBoards <- dim(boards[,1])[1]
-      for(i in 1:numberBoards){
-        if(boards[i,2]==rows && boards[i,3]==style && boards[i,4]==stagger){
-          print(boards[i,1])
-          str = paste(str,"| **",boards[i,1],"** <br> [Info](",boards[i,5],") <br> <img src=\"",boards[i,6],"\" alt=\"",boards[i,1],"\" width=\"300\"/> <br> Image Credit: ",boards[i,7]," |  \n",sep="")
-        }
-      }#End Cycle the Boards
-      str = paste(str,"\n\n",sep="")    
+      print(rows)
+      print(style)
+      print(stagger)
+      print(boards[i,2]==rows && boards[i,3]==style && boards[i,4]==stagger)
+      if(dim(boards[which(boards[,2]==rows && boards[,3]==style && boards[,4]==stagger),])[1]>0){
+        str = paste(str,"## ",rows," Rows, ",style,", ",stagger," <a name=\"",rows,tolower(unlist(strsplit(style,""))[1]),tolower(unlist(strsplit(stagger,""))[1]),"\"></a>  \n",sep="")
+        str = paste(str,"| |  \n","| :---: |  \n",sep="")  
+        numberBoards <- dim(boards[,1])[1]
+        for(i in 1:numberBoards){
+          if(boards[i,2]==rows && boards[i,3]==style && boards[i,4]==stagger){
+            print(boards[i,1])
+            str = paste(str,"| **",boards[i,1],"** <br> [Info](",boards[i,5],") <br> <img src=\"",boards[i,6],"\" alt=\"",boards[i,1],"\" width=\"300\"/> <br> Image Credit: ",boards[i,7]," |  \n",sep="")
+          }
+        }#End Cycle the Boards
+        str = paste(str,"\n\n",sep="")
+      }
     }#End Stagger
   }#end split
 }#end rows
