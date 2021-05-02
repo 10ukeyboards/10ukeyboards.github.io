@@ -131,7 +131,7 @@ title: 10u Keyboards
 | **Eggman** <br> [Info](https://github.com/sadekbaroudi/euclid36) <br> <img src="https://cdn.discordapp.com/attachments/795652889464799272/807652994086469662/image2.jpg" alt="Eggman" width="300"/> <br> Image Credit: TBA |  
 | **Eek** <br> [Info](NA) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.bigcartel.com%2Fproduct_images%2F286040457%2F4D28B945-886F-4C37-BFAA-33BBC0B6FB05.jpeg%3Fauto%3Dformat%26fit%3Dmax%26h%3D1200%26w%3D1200&f=1&nofb=1" alt="Eek" width="300"/> <br> Image Credit: TBA |  
 | **Le Chiffre** <br> [Info](https://www.cbkbd.com/product/eek-keyboard) <br> <img src="https://cdn.shopify.com/s/files/1/0501/7537/7592/products/sbb_grande.jpg" alt="Le Chiffre" width="300"/> <br> Image Credit: TBA |  
-| **Reviung30** <br> [Info](https://p3dstore.com/products/le-chiffre-group-buy?variant=37048032297144. Also open source at) <br> <img src="https://cdn.discordapp.com/attachments/527180441950617615/802753080704630784/il_1140xN.png" alt="Reviung30" width="300"/> <br> Image Credit: TBA |  
+| **Reviung30** <br> [Info](https://p3dstore.com/products/le-chiffre-group-buy?variant=37048032297144) <br> <img src="https://cdn.discordapp.com/attachments/527180441950617615/802753080704630784/il_1140xN.png" alt="Reviung30" width="300"/> <br> Image Credit: TBA |  
 
 
 ## 4 Rows, Split, Row Stagger <a name="4sr"></a>  
