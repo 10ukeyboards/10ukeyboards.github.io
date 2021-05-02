@@ -12,6 +12,7 @@ setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 
 boards <- gsheet2tbl("https://docs.google.com/spreadsheets/d/1yjBroqWsdkn6UIRHMhAu7uRpc40q9PTtaTIKJLjE-6g/edit?usp=sharing")
 boards <- boards[,-1]
+boards <- boards[order(boards[,1]),]
 fileConn <- file("docs//index.md")
 
 

@@ -21,12 +21,14 @@ title: 10u Keyboards
 ## 3 Rows, Nonsplit, Row Stagger <a name="3nr"></a>  
 | |  
 | :---: |  
+| **Alpha** <br> [Info](https://github.com/PyrooL/Alpha) <br> <img src="https://camo.githubusercontent.com/4abe6b0ffd284eb6b6bfaa53a3f885e6f54750074ca1a41a66490a2324138a96/68747470733a2f2f692e696d6775722e636f6d2f4c6e4e4f4b62582e6a7067" alt="Alpha" width="300"/> <br> Image Credit: u/Polyzhu |  
 
 
 ## 3 Rows, Nonsplit, Ortholinear <a name="3no"></a>  
 | |  
 | :---: |  
 | **Gherkin** <br> [Info](https://www.rainkeebs.mx/product/yasui-keyboard-kit) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F9c%2F97%2Fe9%2F9c97e938a66bfa42e0bc53c97407a8e3.jpg" alt="Gherkin" width="300"/> <br> Image Credit: TBA |  
+| **Gooby** <br> [Info](NA) <br> <img src="https://cdn.discordapp.com/attachments/527180441950617615/814296047174025216/1.png" alt="Gooby" width="300"/> <br> Image Credit: TBA |  
 | **The30** <br> [Info](NA) <br> <img src="https://external-preview.redd.it/IC6BgXGECzcbfIejwKjTnnyjOU4yI2E2B05P0uS1rzI.jpg" alt="The30" width="300"/> <br> Image Credit: TBA |  
 
 
@@ -58,6 +60,7 @@ title: 10u Keyboards
 ## 3 Rows, Split, Ortholinear <a name="3so"></a>  
 | |  
 | :---: |  
+| **Foobar** <br> [Info](NA) <br> <img src="https://4.bp.blogspot.com/-b9ZZWt2Ju9M/WbwVM0RitqI/AAAAAAACDdM/SZC11cnTHu8NG7AmMUV6Vj2HPqhtS4MDACLcBGAs/s640/f.JPG" alt="Foobar" width="300"/> <br> Image Credit: TBA |  
 
 
 ## 3 Rows, Split, Column Stagger <a name="3sc"></a>  
@@ -84,15 +87,11 @@ title: 10u Keyboards
 | |  
 | :---: |  
 | **_33** <br> [Info](NA) <br> <img src="https://camo.githubusercontent.com/e2e21c405b759312468840eea735b9d8e6b5c48ec3fa1c475c28c6afc439cd02/68747470733a2f2f692e696d6775722e636f6d2f305775663861542e706e67" alt="_33" width="300"/> <br> Image Credit: TBA |  
-| **Butterstick** <br> [Info](http://lazydesigners.cn/the30-on-sale/) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fby2w1luuu1d31.jpg" alt="Butterstick" width="300"/> <br> Image Credit: TBA |  
 | **Dubba** <br> [Info](https://github.com/tominabox1/_33-Keyboard) <br> <img src="https://cdn.shopify.com/s/files/1/0501/7537/7592/products/Dubba-5_1200x1200.jpg" alt="Dubba" width="300"/> <br> Image Credit: TBA |  
-| **Gooby** <br> [Info](NA) <br> <img src="https://cdn.discordapp.com/attachments/527180441950617615/814296047174025216/1.png" alt="Gooby" width="300"/> <br> Image Credit: TBA |  
 | **Packrat** <br> [Info](https://github.com/gtips/reviung/tree/master/reviung33) <br> <img src="https://cdn.discordapp.com/attachments/781225862536232970/834512328216412190/image0.jpg" alt="Packrat" width="300"/> <br> Image Credit: TBA |  
-| **Rainkeeb** <br> [Info](https://www.gboards.ca/product/butter-stick-limited-edition) <br> <img src="https://cdn.discordapp.com/attachments/772009114377125918/772010382994440212/rainkeeb.jpg" alt="Rainkeeb" width="300"/> <br> Image Credit: TBA |  
 | **Reviung33** <br> [Info](https://keyhive.xyz/shop/pb-gherkin) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Freviung.com%2Fwp-content%2Fuploads%2F2020%2F08%2Freviung33-01-1280x855.jpg" alt="Reviung33" width="300"/> <br> Image Credit: TBA |  
 | **Space Space** <br> [Info](NA) <br> <img src="https://i.imgur.com/2mjmIl1.jpg" alt="Space Space" width="300"/> <br> Image Credit: TBA |  
 | **Yasui** <br> [Info](https://www.rainkeebs.mx/product/yasui-keyboard-kit) <br> <img src="https://assets.bigcartel.com/product_images/301231563/DSC_0419.JPG" alt="Yasui" width="300"/> <br> Image Credit: Rainkeebs |  
-| **Yasui** <br> [Info](https://p3dstore.com/products/dubba-pcb-acrylic-gasket-keyboard-case) <br> <img src="https://assets.bigcartel.com/product_images/301231563/DSC_0419.JPG" alt="Yasui" width="300"/> <br> Image Credit: TBA |  
 
 
 ## 4 Rows, Nonsplit, Column Stagger <a name="4nc"></a>  
@@ -110,6 +109,7 @@ title: 10u Keyboards
 | |  
 | :---: |  
 | **Kawa** <br> [Info](NA) <br> <img src="https://assets.bigcartel.com/product_images/298282275/kawa.jpg" alt="Kawa" width="300"/> <br> Image Credit: TBA |  
+| **Rainkeeb** <br> [Info](https://www.gboards.ca/product/butter-stick-limited-edition) <br> <img src="https://cdn.discordapp.com/attachments/772009114377125918/772010382994440212/rainkeeb.jpg" alt="Rainkeeb" width="300"/> <br> Image Credit: TBA |  
 
 
 ## 4 Rows, Unibody Split, Column Stagger <a name="4uc"></a>  
@@ -118,7 +118,6 @@ title: 10u Keyboards
 | **Absolem** <br> [Info](https://booth.pm/en/items/2041699) <br> <img src="https://zealot.hu/absolem/pics/splash.jpg" alt="Absolem" width="300"/> <br> Image Credit: TBA |  
 | **Ahokore** <br> [Info](https://github.com/gtips/reviung/tree/master/reviung34) <br> <img src="https://cdn.discordapp.com/attachments/776420592977969174/833717355992973323/image0.png" alt="Ahokore" width="300"/> <br> Image Credit: TBA |  
 | **Arch36** <br> [Info](https://zealot.hu/absolem/. Open sourced at) <br> <img src="https://i.imgur.com/hFcf1dQ.jpg" alt="Arch36" width="300"/> <br> Image Credit: TBA |  
-| **Atreus** <br> [Info](no GB nor OS planned) <br> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fxahlee.info%2Fkbd%2Fi3%2Fatreus_keyboard_5_rows_atreus62.jpg" alt="Atreus" width="300"/> <br> Image Credit: TBA |  
 | **Balbuzard** <br> [Info](https://www.rainkeebs.mx/product/manta-keyboard-kit) <br> <img src="https://github.com/brow/balbuzard/raw/main/images/assembled.jpg" alt="Balbuzard" width="300"/> <br> Image Credit: TBA |  
 | **Eek** <br> [Info](NA) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fassets.bigcartel.com%2Fproduct_images%2F286040457%2F4D28B945-886F-4C37-BFAA-33BBC0B6FB05.jpeg%3Fauto%3Dformat%26fit%3Dmax%26h%3D1200%26w%3D1200&f=1&nofb=1" alt="Eek" width="300"/> <br> Image Credit: TBA |  
 | **Eggman** <br> [Info](https://github.com/sadekbaroudi/euclid36) <br> <img src="https://cdn.discordapp.com/attachments/795652889464799272/807652994086469662/image2.jpg" alt="Eggman" width="300"/> <br> Image Credit: TBA |  
@@ -142,7 +141,6 @@ title: 10u Keyboards
 ## 4 Rows, Split, Ortholinear <a name="4so"></a>  
 | |  
 | :---: |  
-| **Foobar** <br> [Info](NA) <br> <img src="https://4.bp.blogspot.com/-b9ZZWt2Ju9M/WbwVM0RitqI/AAAAAAACDdM/SZC11cnTHu8NG7AmMUV6Vj2HPqhtS4MDACLcBGAs/s640/f.JPG" alt="Foobar" width="300"/> <br> Image Credit: TBA |  
 | **Levinson** <br> [Info](NA) <br> <img src="https://preview.redd.it/qy3ga50vls861.png" alt="Levinson" width="300"/> <br> Image Credit: TBA |  
 | **MiniAxe** <br> [Info](NA) <br> <img src="https://media.discordapp.net/attachments/532682459800797196/813017519027257344/B6418C40-737D-43E6-9BB0-4746175D2049.JPG" alt="MiniAxe" width="300"/> <br> Image Credit: TBA |  
 | **Reviung34 Split** <br> [Info](NA) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.B3doAEjdWuN6RbzdSR22ywHaE8%26pid%3DApi&f=1" alt="Reviung34 Split" width="300"/> <br> Image Credit: TBA |  
@@ -154,7 +152,6 @@ title: 10u Keyboards
 | |  
 | :---: |  
 | **5plit** <br> [Info](NA) <br> <img src="https://hackaday.io/project/167897/gallery#0d9c958b325d72d2479a37ab1230dbb3" alt="5plit" width="300"/> <br> Image Credit: TBA |  
-| **Akimbo** <br> [Info](NA) <br> <img src="https://cdn.discordapp.com/attachments/527180441950617615/801123928566530108/7C051EA5-1559-44B0-8353-0135C3686B3A_1_105_c.jpeg" alt="Akimbo" width="300"/> <br> Image Credit: TBA |  
 | **Centromere Mini** <br> [Info](NA) <br> <img src="https://mechdb.net/uploads/2mjurkoutkxt.jpg" alt="Centromere Mini" width="300"/> <br> Image Credit: TBA |  
 | **Chimera Ergo Mini** <br> [Info](NA) <br> <img src="https://mechdb.net/uploads/e8hjxbuv8mr7.undefined" alt="Chimera Ergo Mini" width="300"/> <br> Image Credit: TBA |  
 | **Corne (5col)** <br> [Info](NA) <br> <img src="https://cdn.discordapp.com/attachments/529309006494171137/816015584059588678/IMG_20210301_193124.png" alt="Corne (5col)" width="300"/> <br> Image Credit: TBA |  
@@ -164,7 +161,6 @@ title: 10u Keyboards
 | **Ferris** <br> [Info](NA) <br> <img src="https://camo.githubusercontent.com/e012ae766ec483a027a25d606e4f6bbc6a4cece30774c9a0e65d78967c444d73/68747470733a2f2f692e696d6775722e636f6d2f54436a6b7175522e6a7067" alt="Ferris" width="300"/> <br> Image Credit: TBA |  
 | **Fifi** <br> [Info](NA) <br> <img src="https://mechdb.net/uploads/zb85wnyqrjlj.undefined" alt="Fifi" width="300"/> <br> Image Credit: TBA |  
 | **Gergoplex** <br> [Info](NA) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.ZuL3e_BJ_lxOabGR7bnkcgHaE1%26pid%3DApi&f=1" alt="Gergoplex" width="300"/> <br> Image Credit: TBA |  
-| **Ginny** <br> [Info](NA) <br> <img src="https://assets.bigcartel.com/product_images/247416878/IMG_20191025_1424438-01.jpeg" alt="Ginny" width="300"/> <br> Image Credit: TBA |  
 | **Kyria (5 col)** <br> [Info](NA) <br> <img src="NA" alt="Kyria (5 col)" width="300"/> <br> Image Credit: TBA |  
 | **Microdox** <br> [Info](NA) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.vGnH-j0rlrfWJAn5cmUH2wHaEK%26pid%3DApi&f=1" alt="Microdox" width="300"/> <br> Image Credit: TBA |  
 | **Minidox** <br> [Info](NA) <br> <img src="https://mechlab.cc/wp-content/uploads/2019/02/minidox-keyboard.jpg" alt="Minidox" width="300"/> <br> Image Credit: TBA |  
@@ -202,6 +198,7 @@ title: 10u Keyboards
 ## 5 Rows, Unibody Split, Column Stagger <a name="5uc"></a>  
 | |  
 | :---: |  
+| **Atreus** <br> [Info](no GB nor OS planned) <br> <img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fxahlee.info%2Fkbd%2Fi3%2Fatreus_keyboard_5_rows_atreus62.jpg" alt="Atreus" width="300"/> <br> Image Credit: TBA |  
 
 
 ## 5 Rows, Split, Row Stagger <a name="5sr"></a>  
@@ -217,6 +214,54 @@ title: 10u Keyboards
 ## 5 Rows, Split, Column Stagger <a name="5sc"></a>  
 | |  
 | :---: |  
+
+
+## 2 Rows, Nonsplit, Row Stagger <a name="2nr"></a>  
+| |  
+| :---: |  
+
+
+## 2 Rows, Nonsplit, Ortholinear <a name="2no"></a>  
+| |  
+| :---: |  
+| **Butterstick** <br> [Info](http://lazydesigners.cn/the30-on-sale/) <br> <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.redd.it%2Fby2w1luuu1d31.jpg" alt="Butterstick" width="300"/> <br> Image Credit: TBA |  
+
+
+## 2 Rows, Nonsplit, Column Stagger <a name="2nc"></a>  
+| |  
+| :---: |  
+
+
+## 2 Rows, Unibody Split, Row Stagger <a name="2ur"></a>  
+| |  
+| :---: |  
+
+
+## 2 Rows, Unibody Split, Ortholinear <a name="2uo"></a>  
+| |  
+| :---: |  
+
+
+## 2 Rows, Unibody Split, Column Stagger <a name="2uc"></a>  
+| |  
+| :---: |  
+
+
+## 2 Rows, Split, Row Stagger <a name="2sr"></a>  
+| |  
+| :---: |  
+
+
+## 2 Rows, Split, Ortholinear <a name="2so"></a>  
+| |  
+| :---: |  
+
+
+## 2 Rows, Split, Column Stagger <a name="2sc"></a>  
+| |  
+| :---: |  
+| **Akimbo** <br> [Info](NA) <br> <img src="https://cdn.discordapp.com/attachments/527180441950617615/801123928566530108/7C051EA5-1559-44B0-8353-0135C3686B3A_1_105_c.jpeg" alt="Akimbo" width="300"/> <br> Image Credit: TBA |  
+| **Ginny** <br> [Info](NA) <br> <img src="https://assets.bigcartel.com/product_images/247416878/IMG_20191025_1424438-01.jpeg" alt="Ginny" width="300"/> <br> Image Credit: TBA |  
 
 
 
